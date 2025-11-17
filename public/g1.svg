@@ -1,0 +1,23 @@
+<svg width="293" height="293" viewBox="0 0 293 293" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_472_25627)">
+<rect width="293" height="293" rx="146.5" fill="white"/>
+<ellipse cx="184.337" cy="106.204" rx="316.656" ry="318.444" transform="rotate(45 184.337 106.204)" fill="url(#paint0_radial_472_25627)"/>
+<ellipse cx="260.294" cy="237.667" rx="462.897" ry="168.633" transform="rotate(-59.902 260.294 237.667)" fill="url(#paint1_radial_472_25627)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_472_25627" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(183.01 78.8053) rotate(-104.953) scale(252.416 251.188)">
+<stop offset="0.43" stop-color="#00F956"/>
+<stop offset="1" stop-color="#00F956" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_472_25627" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(258.354 223.158) rotate(-126.4) scale(160.445 305.912)">
+<stop offset="0.19" stop-color="#7A55D7"/>
+<stop offset="0.615" stop-color="#7A55D7" stop-opacity="0.33"/>
+<stop offset="0.78" stop-color="#7A55D7" stop-opacity="0.167143"/>
+<stop offset="0.88" stop-color="#7A55D7" stop-opacity="0.0911688"/>
+<stop offset="1" stop-color="#7A55D7" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_472_25627">
+<rect width="293" height="293" rx="146.5" fill="white"/>
+</clipPath>
+</defs>
+</svg>
